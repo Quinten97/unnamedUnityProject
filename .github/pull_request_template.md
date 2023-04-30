@@ -3,7 +3,7 @@
 #### What files does this Pull Request affect?
 
 #### Which issue is this Pull Request in reference to?
-[Issue](https://github.com/Quinten97/unnamedUnityProject/issues/3)
+[Issue](<!---Replace with Link to Issue--->)
 
 #### How did this ticket make you feel?
 
